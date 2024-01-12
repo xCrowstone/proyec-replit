@@ -5,7 +5,7 @@ html {
   body {
     background-color: grey;
 }
-h3 {
+.green-text {
   color: green;
 }
 .blue-text {
